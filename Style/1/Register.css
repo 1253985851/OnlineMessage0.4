@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+#Register{
+    width:auto;
+    height:600px;
+    border:1px solid #ccc;
+    font-size:12px;
+    margin:0 0 10px 0;
+
+}
+#Rigister h2{
+    text-indent:0;
+    text-align:center;
+
+}
